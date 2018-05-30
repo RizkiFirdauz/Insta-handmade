@@ -1,0 +1,64 @@
+.Header {
+    text-align  : center;
+}
+
+nav {
+    font-weight : bold;
+    font-size   : 16px;
+    color       : green;
+}
+
+.navbar-brand {
+    font-size   : 20px;
+    font-family : "Kaushan Script";
+    color       : white;
+}
+
+.navbar-inverse {
+    background  : rgba(255, 255, 255, 0.404);
+    border      : none;
+}
+
+.navbar-toggle {
+    border      : none;
+}
+
+.navbar {
+    width       : 100%;
+}
+
+.fas {
+    color       : white;
+}
+
+.fas:hover {
+    color       : purple;
+}
+
+.btn2 {
+    width       : 50px;
+    background  : transparent;
+    border      : none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.Input {
+    width           : 200px;
+    height          : 36px;
+    font-style      : italic;
+    text-align      : center;
+    color           : darkcyan;
+    font-family     : "Dosis";
+    border-radius   : 3px;
+    border          : none;
+}
+
+.rounded-circle {
+    width           : 40px;
+    height          : 50px;
+    margin-top      : 5px;
+    margin-right    : 5px;
+}

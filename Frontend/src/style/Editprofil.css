@@ -1,0 +1,13 @@
+.box4 {
+    background      : rgba(255, 255, 255, 0.315);
+    width           : 450px;
+    height          : 360px;
+    padding-top     : 20px;
+    border-radius   : 10px;
+}
+
+.quotes {
+    padding-top     : 20px;
+    font-family     :"Gaegu";
+    color           :white;
+}

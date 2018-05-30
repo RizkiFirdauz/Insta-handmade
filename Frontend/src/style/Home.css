@@ -1,0 +1,36 @@
+.container-fluid {
+    padding         : 0;
+    margin          : 0;
+}
+
+.fab {
+    font-size       : 20px;
+    color           : white;
+    padding         : 5px;
+}
+
+.fab:hover {
+    color           : purple;
+}
+
+.modal-body {
+    text-align      : center;
+}
+
+.box5 {
+    width           : 500px;
+    height          : 400px;
+    background      : rgba(255, 255, 255, 0.295);
+    border-radius   : 20px;
+    color           : white;
+    padding-top     : 20px;
+}
+
+.imagetimeline {
+    width           : 450px;
+    border-radius   : 10px;
+}
+
+.profilname {
+    font-family     : "Kaushan Script";
+}

@@ -1,0 +1,54 @@
+.box3 {
+    width           : 600px;
+    height          : 200px;
+    padding-top     : 100px;
+    padding-left    : 65px;
+}
+
+.potoprofil {
+    width           : 150px;
+    height          : 160px;
+    border-radius   : 20px;
+}
+
+.namaprofil {
+    font-size       : 24px;
+}
+
+.followerprofil {
+    padding-left    : 70px;
+    padding-right   : 10px;
+    color           : white;
+}
+
+.followingprofil {
+    padding-left    : 10px;
+    color           : white;
+}
+
+.poto {
+    width           : 200px;
+    height          : 180px;
+    padding-top     : 15px;
+    border-radius   : 10px;
+    background      : rgba(255, 255, 255, 0.295);
+}
+
+.detail {
+    width           : 300px;
+    height          : 180px;
+    padding-top     : 18px;
+    border-radius   : 10px;
+    font-family     : "Kaushan Script";
+    color           : white;
+    background      : rgba(255, 255, 255, 0.295);
+}
+
+.caption {
+    text-align      : center;
+    font-style      : italic;
+}
+
+.profil {
+    margin-top      : 80px;
+}

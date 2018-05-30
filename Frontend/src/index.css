@@ -1,0 +1,7 @@
+body {
+  margin          : 0;
+  padding         : 0;
+  /* background      : lightcoral; */
+  background: url("https://cdn.pixabay.com/photo/2017/06/09/06/49/background-2385902_960_720.jpg");
+  background-size: 100%;
+}
